@@ -1,3 +1,14 @@
 body{
-    background: brown;
+    background: rgb(44, 42, 165);
+    font-family: sans-serif;
+}
+
+.caja{
+    width: 400px;
+    height: 300px;
+    background: #ccc;
+    border-radius: 6px;
+    padding: 10px;
+    margin: 0 auto;
+    margin-top: 25px;
 }
